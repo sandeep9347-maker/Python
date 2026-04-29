@@ -1,0 +1,119 @@
+{
+  "3.10": {
+    "checksums": {
+      "source": {
+        "sha256": "de6517421601e39a9a3bc3e1bc4c7b2f239297423ee05e282598c83ec0647505"
+      }
+    },
+    "setuptools": {
+      "version": "79.0.1"
+    },
+    "variants": [
+      "trixie",
+      "slim-trixie",
+      "bookworm",
+      "slim-bookworm",
+      "alpine3.23",
+      "alpine3.22"
+    ],
+    "version": "3.10.20"
+  },
+  "3.11": {
+    "checksums": {
+      "source": {
+        "sha256": "272179ddd9a2e41a0fc8e42e33dfbdca0b3711aa5abf372d3f2d51543d09b625"
+      }
+    },
+    "setuptools": {
+      "version": "79.0.1"
+    },
+    "variants": [
+      "trixie",
+      "slim-trixie",
+      "bookworm",
+      "slim-bookworm",
+      "alpine3.23",
+      "alpine3.22"
+    ],
+    "version": "3.11.15"
+  },
+  "3.12": {
+    "checksums": {
+      "source": {
+        "sha256": "c08bc65a81971c1dd5783182826503369466c7e67374d1646519adf05207b684"
+      }
+    },
+    "variants": [
+      "trixie",
+      "slim-trixie",
+      "bookworm",
+      "slim-bookworm",
+      "alpine3.23",
+      "alpine3.22"
+    ],
+    "version": "3.12.13"
+  },
+  "3.13": {
+    "checksums": {
+      "source": {
+        "sha256": "2ab91ff401783ccca64f75d10c882e957bdfd60e2bf5a72f8421793729b78a71"
+      },
+      "windows": {
+        "sha256": "3c9c81d80f91c002ced86d645422d81432c68c7d9b6b0e974768ca2e449a4d00"
+      }
+    },
+    "variants": [
+      "trixie",
+      "slim-trixie",
+      "bookworm",
+      "slim-bookworm",
+      "alpine3.23",
+      "alpine3.22",
+      "windows/windowsservercore-ltsc2025",
+      "windows/windowsservercore-ltsc2022"
+    ],
+    "version": "3.13.13"
+  },
+  "3.14": {
+    "checksums": {
+      "source": {
+        "sha256": "d923c51303e38e249136fc1bdf3568d56ecb03214efdef48516176d3d7faaef8"
+      },
+      "windows": {
+        "sha256": "b571567bd11ea98fd7a2cf85791d2c8557a63b1e04e9d1dae665a275cac87f1b"
+      }
+    },
+    "variants": [
+      "trixie",
+      "slim-trixie",
+      "bookworm",
+      "slim-bookworm",
+      "alpine3.23",
+      "alpine3.22",
+      "windows/windowsservercore-ltsc2025",
+      "windows/windowsservercore-ltsc2022"
+    ],
+    "version": "3.14.4"
+  },
+  "3.15-rc": {
+    "checksums": {
+      "source": {
+        "sha256": "28f1b6358609042ebcc81488ec24569519f50804bb07dc23cc707b281b031c69"
+      },
+      "windows": {
+        "sha256": "ff7c6f5012cee08ed9a63fdfae4a3e22e927a32112de723b3777710a52391ea5"
+      }
+    },
+    "variants": [
+      "trixie",
+      "slim-trixie",
+      "bookworm",
+      "slim-bookworm",
+      "alpine3.23",
+      "alpine3.22",
+      "windows/windowsservercore-ltsc2025",
+      "windows/windowsservercore-ltsc2022"
+    ],
+    "version": "3.15.0a8"
+  }
+}
